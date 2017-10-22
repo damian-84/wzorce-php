@@ -1,0 +1,10 @@
+Wzorzec kreacyjny
+
+-Pozwalają tworzyć obiekty w sposób elastyczney
+-Odpowiadają na pytanie: jak tworzony jest obiekt (lub grupa powiązanych obiektów)
+
+Rozwiązują problem
+- podstawowa forma tworzenia obiektu (za pomocą "new")
+- taka forma może wprowadzać niepotrzebną złożoność
+- wzorce kreacyjne pozwalają uniknąć tej złożoności
+- dodają elastycznośc do procesu tworzenia instancji
